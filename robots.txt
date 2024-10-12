@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://teqajoqiqa.pages.dev/sitemap.xml
